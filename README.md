@@ -10,7 +10,7 @@
 
 LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。**项目门户**： [libretv.is-an.org](https://libretv.is-an.org)
 
-本项目基于 [bestK/tv](https://github.com/bestK/tv) 进行重构与增强。
+本项目基于 [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) 进行重构与增强。
 
 <details>
   <summary>点击查看项目截图</summary>
@@ -21,9 +21,9 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
 
 选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLibreSpark%2FLibreTV)  
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)  
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/LibreSpark/LibreTV)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbruceblink%2FLibreTV)  
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bruceblink/LibreTV)  
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/bruceblink/LibreTV)
 
 ## 🚨 重要声明
 
@@ -163,14 +163,3 @@ LibreTV 仅作为视频搜索工具，不存储、上传或分发任何视频内
 本项目开发者不对使用本项目产生的任何后果负责。使用本项目时，您必须遵守当地的法律法规。
 
 ## 🤝 衍生项目
-
-它们提供了更多丰富的自定义功能，欢迎体验~
-
-- **[MoonTV](https://github.com/senshinya/MoonTV)**  
-- **[OrionTV](https://github.com/zimplexing/OrionTV)**  
-
-## 🥇 感谢支持
-
-- **[Sharon](https://sharon.io)**
-- **[ZMTO](https://zmto.com)**
-- **[YXVM](https://yxvm.com)**  
